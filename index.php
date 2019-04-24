@@ -217,30 +217,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<div class="main">
 								<div class="view effect">
 									<div class="img-top">
-										<a href="adalberto" rel="title" class="b-link-stripe b-animate-go  thickbox">
-											<img src="images/init_adalberto.jpg" class="img-responsive" alt="" />
-											<div class="mask"></div>
-											<div class="content">
-												<span class="info" title="Full Image"> </span>
-												<h4>Adalberto LetradeMolde</h4>
-											</div>
-										</a>
-									</div>
-								</div>
-								<div class="view effect">
-									<div class="img-top">
-										<a href="alegria" rel="title" class="b-link-stripe b-animate-go  thickbox">
-											<img src="images/init_alegria.jpg" class="img-responsive" alt="" />
-											<div class="mask"></div>
-											<div class="content">
-												<span class="info" title="Full Image"> </span>
-												<h4>Alegría</h4>
-											</div>
-										</a>
-									</div>
-								</div>
-								<div class="view effect">
-									<div class="img-top">
 										<a href="esquizomedia" rel="title" class="b-link-stripe b-animate-go  thickbox">
 											<img src="images/init_esquizomedia.jpg" class="img-responsive" alt="" />
 											<div class="mask"></div>
@@ -265,6 +241,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 								<div class="view effect">
 									<div class="img-top">
+										<a href="alegria" rel="title" class="b-link-stripe b-animate-go  thickbox">
+											<img src="images/init_alegria.jpg" class="img-responsive" alt="" />
+											<div class="mask"></div>
+											<div class="content">
+												<span class="info" title="Full Image"> </span>
+												<h4>Alegría</h4>
+											</div>
+										</a>
+									</div>
+								</div>
+								<div class="view effect">
+									<div class="img-top">
 										<a href="chistes-varios" rel="title" class="b-link-stripe b-animate-go  thickbox">
 											<img src="images/init_sueltos.jpg" class="img-responsive" alt="" />
 											<div class="mask"></div>
@@ -283,6 +271,54 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 											<div class="content">
 												<span class="info" title="Full Image"> </span>
 												<h4>Ilustración</h4>
+											</div>
+										</a>
+									</div>
+								</div>
+								<div class="view effect">
+									<div class="img-top">
+										<a href="adalberto" rel="title" class="b-link-stripe b-animate-go  thickbox">
+											<img src="images/init_adalberto.jpg" class="img-responsive" alt="" />
+											<div class="mask"></div>
+											<div class="content">
+												<span class="info" title="Full Image"> </span>
+												<h4>Adalberto LetradeMolde</h4>
+											</div>
+										</a>
+									</div>
+								</div>
+								<div class="view effect">
+									<div class="img-top">
+										<a href="Instagramsci" rel="title" class="b-link-stripe b-animate-go  thickbox">
+											<img src="images/init_instagramsci.jpg" class="img-responsive" alt="" />
+											<div class="mask"></div>
+											<div class="content">
+												<span class="info" title="Full Image"> </span>
+												<h4>Instagramsci</h4>
+											</div>
+										</a>
+									</div>
+								</div>
+								<div class="view effect">
+									<div class="img-top">
+										<a href="historieta" rel="title" class="b-link-stripe b-animate-go  thickbox">
+											<img src="images/init_historietas.jpg" class="img-responsive" alt="" />
+											<div class="mask"></div>
+											<div class="content">
+												<span class="info" title="Full Image"> </span>
+												<h4>Historietas Sueltas</h4>
+											</div>
+										</a>
+									</div>
+								</div>
+								<div class="view effect">
+									<div class="img-top">
+										<a href="adalberto" rel="title" class="b-link-stripe b-animate-go  thickbox">
+											<img src="images/init_cuadernos.jpg" class="img-responsive" alt="" />
+											<div class="mask"></div>
+											<div class="content">
+												<span class="info" title="Full Image"> </span>
+												<h4>Cuadernos y bocetos</h4>
 											</div>
 										</a>
 									</div>
